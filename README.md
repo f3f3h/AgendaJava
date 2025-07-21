@@ -20,9 +20,9 @@ Este é um projeto simples de console em Java para cadastro de contatos, que sol
 ---
 
 ##  Exemplo
-Digite seu nome: maria da silva
-Digite seu telefone (somente números): 11999998888
-Digite seu email: maria.silva@email.com
+Digite seu nome: maria da silva.
+Digite seu telefone (somente números): 11999998888.
+Digite seu email: maria.silva@email.com.
 
 Contato cadastrado com sucesso:
 Nome: Maria Da Silva
